@@ -12,4 +12,6 @@ common:
     url: https://github.com/Qorvo
   - type: LinkedIn
     url: https://www.linkedin.com/company/qorvo
+  - type: Blog
+    url: https://www.qorvo.com/newsroom
 apis: []
