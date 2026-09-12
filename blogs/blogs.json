@@ -2,20 +2,21 @@
   "repo": "qorvo",
   "feeds": [
     {
+      "source": "https://www.linkedin.com/company/qorvo",
+      "feed_url": "https://www.linkedin.com/company/qorvo",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://www.qorvo.com/newsroom",
       "feed_url": "https://www.qorvo.com/newsroom",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
-      "source": "https://www.linkedin.com/company/qorvo",
-      "error": "HTTPError"
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 5,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
